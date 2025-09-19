@@ -48,8 +48,7 @@ TabsNav → Navegación por pestañas con v-model
 
 Aquí puedes ver un video de ejemplo del proyecto en ejecución:
 
-👉 [Ver video de demostración:]
-(https://youtube.com/shorts/5CsO6EC9kTU?si=ND6sVfDD5Gmd96Ow)
+👉See [Ver video de Demostración](https://www.youtube.com/shorts/5CsO6EC9kTU)
 
 📌 Notas
 
