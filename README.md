@@ -1,10 +1,62 @@
 # .
 
-This template should help get you started developing with Vue 3 in Vite.
+Proyecto de Prueba: Vue 3 + Vite + TailwindCSS 4
 
-## Recommended IDE Setup
+Este es un proyecto de prueba desarrollado con Vue 3, Vite y TailwindCSS v4.
+Incluye ejemplos prácticos de componentes reutilizables: Cards, Grid de productos, Formulario de contacto, Alertas, Badges, Botones y Navegación con Tabs.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tecnologías utilizadas
+
+Vue 3 (Composition API con <script setup>)
+
+Vite como bundler ultrarrápido
+
+TailwindCSS v4 para estilos utilitarios
+
+ESLint + Prettier para linting y formateo
+
+src/
+  assets/
+    tailwind.css        # Estilos globales con Tailwind
+  components/
+    AppHeader.vue
+    AppFooter.vue
+    ProductCard.vue
+    ProductGrid.vue
+    ContactForm.vue
+    AlertsGroup.vue
+    BadgesButtons.vue
+    TabsNav.vue
+  App.vue               # Componente raíz que orquesta todo
+  main.js               # Punto de entrada de la aplicación
+
+## Componentes principales
+
+AppHeader / AppFooter → Cabecera y pie de página
+
+ProductGrid + ProductCard → Renderizan una cuadrícula de productos
+
+ContactForm → Formulario de contacto simple
+
+AlertsGroup → Alertas de éxito, advertencia y error
+
+BadgesButtons → Ejemplos de badges y botones con Tailwind
+
+TabsNav → Navegación por pestañas con v-model
+
+## Demostración
+
+Aquí puedes ver un video de ejemplo del proyecto en ejecución:
+
+👉 Ver video de demostración
+
+📌 Notas
+
+Proyecto creado únicamente con fines de aprendizaje/prueba
+
+Perfecto como base para practicar Vue + Tailwind
+
+Fácil de extender con vue-router y Pinia
 
 ## Customize configuration
 
