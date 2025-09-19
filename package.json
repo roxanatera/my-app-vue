@@ -33,5 +33,18 @@
     "tailwindcss": "^4.1.13",
     "vite": "^7.0.6",
     "vite-plugin-vue-devtools": "^8.0.0"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roxanatera/my-app-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roxanatera/my-app-vue/issues"
+  },
+  "homepage": "https://github.com/roxanatera/my-app-vue#readme"
 }
